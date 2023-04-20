@@ -1,0 +1,4 @@
+1、安装依赖 npm install 
+2、启动json文件  json-server --watch db.json
+3、启动服务 npm run dev 
+测试账号  admin   123456

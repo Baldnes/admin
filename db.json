@@ -1,0 +1,912 @@
+{
+    "img": [
+        {
+            "id": 1,
+            "image": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/a6bf85e2ce6c470ea9f8c6c703175c8c.png"
+        },
+        {
+            "id": 2,
+            "image": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/8c6ee4cf7fb54425987871b9a2f52f2e.png"
+        },
+        {
+            "id": 3,
+            "image": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/818bb516173241708b1389bd03cd68a7.jpg"
+        },
+        {
+            "id": 4,
+            "image": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/1985d6893e044996bf54b0a2ee904981.jpg"
+        }
+    ],
+    "kecheng": [
+        {
+            "id": 1,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/e29dfd21939d456ca41fdb42d441fc75.png",
+            "content": 0,
+            "price": "4090.00",
+            "text": "机试题+项目场景问题解决方案",
+            "jibie": "高级"
+        },
+        {
+            "id": 2,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/c91d05f93a2747828c3604f7f076dddb.png",
+            "content": 65,
+            "price": "3098.00",
+            "text": "2302实训室",
+            "jibie": "初级"
+        },
+        {
+            "id": 3,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/c03f1b4e7d67429db462da363f9197ed.png",
+            "content": 990,
+            "price": "6784.00",
+            "text": "实训室前五天课程",
+            "jibie": "中级"
+        },
+        {
+            "id": 4,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/7c463da5bf024b28a8a360e149527640.png",
+            "content": 345,
+            "price": "987.00",
+            "text": "2301实训室",
+            "jibie": "高级"
+        },
+        {
+            "id": 5,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/54b7a412de834f12883340c1f8db6d3c.png",
+            "content": 324,
+            "price": "888.00",
+            "text": "23届春招面试题",
+            "jibie": "中级"
+        },
+        {
+            "id": 6,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/3a7ddb6ce3134531b019e9f87aa0bc18.png",
+            "content": 9090,
+            "price": "254.00",
+            "text": "2212实训室",
+            "jibie": "中级"
+        },
+        {
+            "id": 7,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/80a994108e2e494d968875155d310b79.png",
+            "content": 1243,
+            "price": "9863.00",
+            "text": "PC端 + 移动端网站布局和特效",
+            "jibie": "初级"
+        },
+        {
+            "id": 8,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/d37650c42eb74faf9e1bc582f6805aaf.png",
+            "content": 4578,
+            "price": "12344.00",
+            "text": "Vue2 + Nuxt2 + Vue3 + 面试题",
+            "jibie": "中级"
+        }
+    ],
+    "tuijian": [
+        {
+            "id": 1,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/127e976b5bf44306b2e69d06fd883a86.png",
+            "content": 423,
+            "price": "987.00",
+            "text": "前端实训室-前5天课程",
+            "jibie": "高级"
+        },
+        {
+            "id": 2,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/56ae8c0e53bf452f888f81825b8d401b.jpg",
+            "content": 923,
+            "price": "499.00",
+            "text": "WEB前端高频面试题",
+            "jibie": "高级"
+        },
+        {
+            "id": 3,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/63f1c8594a7d4339b4d29a00daf286a4.png",
+            "content": 8998,
+            "price": "399.00",
+            "text": "Vue3",
+            "jibie": "初级"
+        },
+        {
+            "id": 4,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/75c96e3f949e4cd6953be377dbfd4223.jpg",
+            "content": 234,
+            "price": "999.00",
+            "text": "WEB前端零基础到就业全套课程",
+            "jibie": "初级"
+        },
+        {
+            "id": 5,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/cf299c8d92f84d5c8f86d9e735c0ebb7.jpg",
+            "content": 1,
+            "price": "899.00",
+            "text": "uni-app商城实战项目",
+            "jibie": "中级"
+        },
+        {
+            "id": 6,
+            "imgs": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/5724ea15185b425595349b142c5eedf4.png",
+            "content": 123,
+            "price": "19.00",
+            "text": "Vue3 +Vite + Pinia + 实战项目",
+            "jibie": "中级"
+        }
+    ],
+    "list": [
+        {
+            "id": 1,
+            "text": "HTML/CSS / html/css / css"
+        },
+        {
+            "id": 2,
+            "text": "JavaScript / JavaScript / JS小游戏 /"
+        },
+        {
+            "id": 3,
+            "text": "Node.js / Node.js"
+        },
+        {
+            "id": 4,
+            "text": "前端框架 / Vue.js / NuxtJS / React.js"
+        },
+        {
+            "id": 5,
+            "text": "前端工具 / webpack / Git"
+        },
+        {
+            "id": 6,
+            "text": "跨平台开发 / uni-app / mui"
+        },
+        {
+            "id": 7,
+            "text": "求职面试 / 前端面试题 / 面试录音"
+        },
+        {
+            "id": 8,
+            "text": "小鹿线班级 / P5班 / 实训室 / 活动专题"
+        },
+        {
+            "id": 9,
+            "text": "其他课程 / 零基础到就业 / WEB前端算法 /"
+        }
+    ],
+    "erlist": [
+        {
+            "erid": 1,
+            "text": [
+                {
+                    "name": "html/css"
+                },
+                {
+                    "name": "css"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/80a994108e2e494d968875155d310b79.png",
+                    "text": "PC端 + 移动端网站布局和特效",
+                    "dengji": "初级 · 80报名",
+                    "price": "99.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/656522bf547341ddb98f32c4605d30e4.jpg",
+                    "text": "Swiper4.x",
+                    "dengji": "初级 · 96人报名",
+                    "price": "99.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text": "HTML/CSS零基础课程",
+                    "dengji": "中级 · 123人报名",
+                    "price": "会员免费"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/cabdd8e705344456ba9768f5eeb665d6.jpg",
+                    "text": "WEB前端防抖节流",
+                    "dengji": "初级 · 231人报名",
+                    "price": "会员免费"
+                }
+            ]
+        },
+        {
+            "erid": 2,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "正则表达式"
+                },
+                {
+                    "id": 2,
+                    "name": "JavaScript"
+                },
+                {
+                    "id": 3,
+                    "name": "es6"
+                },
+                {
+                    "id": 4,
+                    "name": "小游戏"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/19b75b3a5d05468db88a66b9a9d2be24.jpg",
+                    "text": "TypeScript",
+                    "dengji": "中级 · 237人报名",
+                    "price": "99.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/571ae04f017f4b36840dc7083fb19d0f.png",
+                    "text": "TypeScript【2022年录制】",
+                    "dengji": "中级 · 59人报名",
+                    "price": "99.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/ece37f9d8fed41479df95f30985311d2.jpg",
+                    "text": "jQuery推箱子小游戏",
+                    "dengji": "初级 · 87人报名",
+                    "price": "会员免费"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/3cb626c25f974f1887ee5f238b9dde31.jpg",
+                    "text": "JavaScript部分面试题",
+                    "dengji": "初级 · 148人报名",
+                    "price": "免费学习"
+                }
+            ]
+        },
+        {
+            "erid": 3,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "node.js"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/6e6762f9c1c9494386861e4e9e6420f3.jpg",
+                    "text": "NodeJS",
+                    "dengji": "初级 · 21人报名",
+                    "price": "99.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/73d3e853132f4b939d0d049b9bd06d77.png",
+                    "text": "Node分布式",
+                    "dengji": "中级 · 20人报名",
+                    "price": "29.00"
+                }
+            ]
+        },
+        {
+            "erid": 4,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "vue.js"
+                },
+                {
+                    "id": 2,
+                    "name": "vue实战项目"
+                },
+                {
+                    "id": 3,
+                    "name": "vuex"
+                },
+                {
+                    "id": 4,
+                    "name": "React.js"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text": "Vue2 + Nuxt2 + Vue3 + 项目",
+                    "dengji": "中级 · 138人报名",
+                    "price": "299.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/72501c3161434000aa86c14d0925a958.jpg",
+                    "text": "vuex精讲",
+                    "dengji": "中级 · 644人报名",
+                    "price": "免费学习"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text": "Vue2 + Vue3 入门到企业实战",
+                    "dengji": "中级 · 270人报名",
+                    "price": "299.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/6f70a8e1c1f440f69e1cd42ad794ccb7.png",
+                    "text": "react开发后台权限系统框架",
+                    "dengji": "高级 · 144人报名",
+                    "price": "299.00"
+                }
+            ]
+        },
+        {
+            "erid": 5,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "git"
+                },
+                {
+                    "id": 2,
+                    "name": "webpack"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/cf5693b15b9d42f790e578e40414e28b.png",
+                    "text": "Git",
+                    "dengji": "中级 · 14人报名",
+                    "price": "49.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/8d17a3bb498b46cda3fe8a3388e73e55.png",
+                    "text": "webpack",
+                    "dengji": "中级 · 5人报名",
+                    "price": "49.00"
+                }
+            ]
+        },
+        {
+            "erid": 6,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "app"
+                },
+                {
+                    "id": 2,
+                    "name": "uniapp"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/52f868c635ff420b85fb8fd5a59f4cb5.jpg",
+                    "text": "移动端项目实战",
+                    "dengji": "中级 · 15人报名",
+                    "price": "499.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/9ec3d43e03ff4c0ba5cfab346d05d549.jpg",
+                    "text": "垃圾分类语音识别App",
+                    "dengji": "中级 · 333人报名",
+                    "price": "49.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/83201a4a1a424311916fda2febc08867.jpg",
+                    "text": "违章查询助手App",
+                    "dengji": "初级 · 152人报名",
+                    "price": "59.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/5d766cad8f2945619bbdbd9c41cbc8a6.png",
+                    "text": "uniapp基础入门",
+                    "dengji": "初级 · 155人报名",
+                    "price": "免费学习"
+                }
+            ]
+        },
+        {
+            "erid": 7,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "面试题"
+                },
+                {
+                    "id": 2,
+                    "name": "中小厂面试录音"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/56ae8c0e53bf452f888f81825b8d401b.jpg",
+                    "text": "WEB前端高频面试题",
+                    "dengji": "高级 · 982人报名",
+                    "price": "399.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/3db2824e63584f1bbb11d221e8c6267c.jpg",
+                    "text": "中小厂面试录音",
+                    "dengji": "中级 · 1255人报名",
+                    "price": "会员免费"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/927021b7ec6f44dbb345cbd71a0b4140.jpg",
+                    "text": "中小企业真实前端面试题",
+                    "dengji": "中级 · 172人报名",
+                    "price": "49.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/54b7a412de834f12883340c1f8db6d3c.png",
+                    "text": "23届春招面试题",
+                    "dengji": "中级 · 298人报名",
+                    "price": "免费学习"
+                }
+            ]
+        },
+        {
+            "erid": 8,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "P5班"
+                },
+                {
+                    "id": 2,
+                    "name": "实训室课程"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/7e148d3a93c54f9fac9b16460487588e.jpg",
+                    "text": "2110实训室",
+                    "dengji": "高级 · 24人报名",
+                    "price": "3090.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/8673b392642f4a828cdc6ce024e08795.png",
+                    "text": "2202实训室",
+                    "dengji": "中级 · 215人报名",
+                    "price": "3090.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/21345e0343eb4ce58e5bdf6f28c568d9.png",
+                    "text": "小鹿线实训室",
+                    "dengji": "高级 · 1211人报名",
+                    "price": "3090.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/bca4761d147843f5a4fa896fd993c96e.jpeg",
+                    "text": "春招突袭就业班",
+                    "dengji": "初级 · 83人报名",
+                    "price": "19.00"
+                }
+            ]
+        },
+        {
+            "erid": 9,
+            "text": [
+                {
+                    "id": 1,
+                    "name": "WEB安全"
+                },
+                {
+                    "id": 2,
+                    "name": "算法"
+                },
+                {
+                    "id": 3,
+                    "name": "WEB前端零基础到就业课程"
+                }
+            ],
+            "content": [
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/75c96e3f949e4cd6953be377dbfd4223.jpg",
+                    "text": "WEB前端零基础到就业",
+                    "dengji": "初级 · 123人报名",
+                    "price": "499.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/de9e56da68184933a77b9252acd5a346.jpg",
+                    "text": "前后端不分离-网站实战项目",
+                    "dengji": "初级 · 17人报名",
+                    "price": "9.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/16999776aa234e1bb3a9529a597e6a9d.jpg",
+                    "text": "WEB前端算法",
+                    "dengji": "中级 · 126人报名",
+                    "price": "209.00"
+                },
+                {
+                    "img": "https://oss.xuexiluxian.cn/xiaoluxian-vcr/68df591b57334cb39371a4428377f460.jpg",
+                    "text": "JWEB安全",
+                    "dengji": "中级 · 176人报名",
+                    "price": "免费学习"
+                }
+            ]
+        }
+    ],
+    "CourseList":[
+        {
+            "id":1,
+            "name":"HTML/CSS"
+        },
+        {
+            "id":2,
+            "name":"JavaScript"
+        },
+        {
+            "id":3,
+            "name":"Node.js"
+        },
+        {
+            "id":4,
+            "name":"前端框架"
+        },
+        {
+            "id":5,
+            "name":"跨平台开发"
+        }
+    ],
+    "lists":[
+        {
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"html/css"
+                },
+                {
+                    "id":2,
+                    "name":"mui"
+                },
+                {
+                    "id":3,
+                    "name":"webpack"
+                },
+                {
+                    "id":4,
+                    "name":"JavaScript"
+                },
+                {
+                    "id":5,
+                    "name":"Git"
+                },
+                {
+                    "id":6,
+                    "name":"Node.js"
+                },
+                {
+                    "id":7,
+                    "name":"Vue.js"
+                },
+                {
+                    "id":8,
+                    "name":"uni-app"
+                },
+                {
+                    "id":9,
+                    "name":"JS小游戏"
+                },
+                {
+                    "id":10,
+                    "name":"WEB前端算法"
+                },
+                {
+                    "id":11,
+                    "name":"React.js"
+                },
+                {
+                    "id":12,
+                    "name":"es6"
+                }
+            ],
+            "imgs":[ 
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":2,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":3,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":4,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":5,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":6,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":7,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":8,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":9,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":10,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":11,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":12,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/9f4abab61da44dec8bab625869d0347e.png",
+                    "text":"Vue2 + Nuxt2 + Vue3 + 项目",
+                    "ji":"中级 · 138人报名",
+                    "price":"259.00"
+                }
+            ]
+        }
+    ],
+    "listimgs":[
+        {
+            "id":1,
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"html/css"
+                },
+                {
+                    "id":2,
+                    "name":"css"
+                }
+            ],
+            "imgs":[
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":2,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":3,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":4,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":5,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":6,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                },{
+                    "id":7,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/1993384f431743388c3c30191d491326.jpg",
+                    "text":"HTML/CSS零基础课程",
+                    "ji":"中级 · 123人报名",
+                    "price":"9.99"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"JavaScript"
+                },
+                {
+                    "id":2,
+                    "name":"JS小游戏"
+                },
+                {
+                    "id":3,
+                    "name":"jQuery"
+                },
+                {
+                    "id":4,
+                    "name":"es6"
+                }
+            ],
+            "imgs":[
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/5048105b4130414e8779791ec4dec2ca.png",
+                    "text":"ES13 部分新特性",
+                    "ji":"初级 · 95人报名",
+                    "price":"100.00"
+                },
+                {
+                    "id":2,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/5048105b4130414e8779791ec4dec2ca.png",
+                    "text":"ES13 部分新特性",
+                    "ji":"初级 · 95人报名",
+                    "price":"100.00"
+                },
+                {
+                    "id":3,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/5048105b4130414e8779791ec4dec2ca.png",
+                    "text":"ES13 部分新特性",
+                    "ji":"初级 · 95人报名",
+                    "price":"100.00"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"Node.js"
+                }
+            ],
+            "imgs":[
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/6e6762f9c1c9494386861e4e9e6420f3.jpg",
+                    "text":"NodeJS",
+                    "ji":"初级 · 21人报名",
+                    "price":"99.00"
+                },
+                {
+                    "id":2,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/6e6762f9c1c9494386861e4e9e6420f3.jpg",
+                    "text":"NodeJS",
+                    "ji":"初级 · 21人报名",
+                    "price":"99.00"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"Vue.js"
+                },
+                {
+                    "id":2,
+                    "name":"NuxtJS"
+                },
+                {
+                    "id":3,
+                    "name":"React.js"
+                }
+            ],
+            "imgs":[
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                },
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/f5a175c97de147c1baea1e5107a45a8e.png",
+                    "text":"Vue2 + Vue3 入门到企业实战",
+                    "ji":"中级 · 270人报名",
+                    "price":"259.00"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "erlist":[
+                {
+                    "id":1,
+                    "name":"mui"
+                },
+                {
+                    "id":2,
+                    "name":"uni-app"
+                }
+            ],
+            "imgs":[
+                {
+                    "id":1,
+                    "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/cf5693b15b9d42f790e578e40414e28b.png",
+                    "text":"Git",
+                    "ji":"中级 · 14人报名",
+                    "price":"49.00"
+                }
+            ]
+        }
+    ],
+    "about":[
+        {
+            "id":1,
+            "state":"收费课",
+            "text":"23届春招面试题",
+            "img":"https://oss.xuexiluxian.cn/xiaoluxian-vcr/4820e28844b04e9391cba571b5e1c7ae.png",
+            "teach":"王老师",
+            "teachs":"金牌讲师",
+            "nan":"高级",
+            "time":"0.00",
+            "student":2,
+            "pinfen":"10.00"
+        }
+    ]
+}
